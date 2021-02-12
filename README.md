@@ -5,8 +5,8 @@
 
 - 🎓 Estudante de Análise e desenvolvimento de sistemas na Unisinos
 - 📚 Estou focado em estudar o mundo iOS e compartilho aqui no github  repositórios de estudos sobre Swift, POO, Storyboard, viewCode, cocoapods, acompanhamento CI - Bitrise e Fastlane, desenvolvimento de telas (UI), gitflow aplicado a projetos, metodologia ágil de trabalho SCRUM, entre outras ferramentas e conhecimentos.
-- [Jeffrey](https://github.com/michelldossantos/projeto-integrador-iOS): é um app desenvolvido durante o curso intensivo de desenvovilmento iOS da digital house com parceria com o Santander Universidades pelo programa Santander Coders mobile 2020
--  
+- [Jeffrey](https://github.com/michelldossantos/projeto-integrador-iOS): é um app desenvolvido durante o curso intensivo de desenvovilmento iOS da digital house com parceria do Santander Universidades pelo programa Santander Coders mobile 2020
+
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-##### Tecnologias que eu tenho trabalhado:
+##### Tecnologias que eu venho trabalhando:
 
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
@@ -40,15 +40,6 @@
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=michelldossantos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](michelldossantos/MauroJuliano)
 
 </p>
-
-
-
-
-
-
-
-
-
 
 
 </p>  
