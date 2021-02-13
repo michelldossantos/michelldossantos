@@ -27,7 +27,7 @@
 
 
 
-##### Tecnologias que eu venho trabalhando:
+##### Tecnologias que utilizo:
 
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
